@@ -1,0 +1,13 @@
+# AWS credentials (NEVER upload these)
+.env
+*.env
+credentials
+
+# ChromaDB database files (too large, not needed)
+rag_vec_db/
+AI_collection/
+
+# Python cache files (auto-generated, useless to share)
+__pycache__/
+*.pyc
+*.pyo
