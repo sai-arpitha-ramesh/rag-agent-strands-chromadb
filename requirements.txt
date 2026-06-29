@@ -1,0 +1,5 @@
+strands-agents
+chromadb
+docling
+chonkie
+sentence-transformers
